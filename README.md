@@ -49,3 +49,6 @@ Passionate about transforming complex datasets into actionable insights and inte
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-madkhali-33552a229/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmayhyy08@gmail.com)
+## 📊 GitHub Stats
+[![Asma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username/github-readme-stats)
+
