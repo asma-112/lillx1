@@ -42,9 +42,19 @@ Passionate about transforming complex datasets into actionable insights and inte
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asma-madkhali-33552a229/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asmayhyy08@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/iiilx_2il?s=21)
+
+<p align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
+  <a href="https://www.linkedin.com/in/asma-madkhali-33552a229/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"/>
+  </a>
+  <a href="mailto:asmayhyy08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="50"/>
+  </a>
+  <a href="https://x.com/iiilx_2il?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" height="50"/>
+  </a>
+</p>
+
 
 
 
